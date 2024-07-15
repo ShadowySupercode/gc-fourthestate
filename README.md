@@ -1,2 +1,2 @@
 # gc-fourthestate
-Book, magazine, and article publishing and reading
+News publishing and reading.
